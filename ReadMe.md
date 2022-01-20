@@ -1,4 +1,4 @@
-- Created an Employee Database Application which involves a driver program to that will use these classes to build an application for an Employee Database.
+- Created an Employee Database Application which involves a driver program that will use the classes, to build an application for an Employee Database.
 - All employee data is stored in a file called empdata.dat.
 - Each time you run the program, the user is allowed to repeatedly select from the five choices described below: 
 <list>
